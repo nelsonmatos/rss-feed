@@ -21,3 +21,8 @@ C:\Code\RSSFeed\obj\Debug\net6.0\refint\RSSFeed.dll
 C:\Code\RSSFeed\obj\Debug\net6.0\RSSFeed.pdb
 C:\Code\RSSFeed\obj\Debug\net6.0\RSSFeed.genruntimeconfig.cache
 C:\Code\RSSFeed\obj\Debug\net6.0\ref\RSSFeed.dll
+C:\Code\RSSFeed\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Code\RSSFeed\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Code\RSSFeed\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Code\RSSFeed\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Code\RSSFeed\obj\Debug\net6.0\RSSFeed.MvcApplicationPartsAssemblyInfo.cs

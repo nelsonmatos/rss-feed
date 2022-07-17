@@ -24,6 +24,8 @@ namespace RSSFeed
 
             services.AddControllers();
 
+            services.AddSwaggerGen();
+
             // configure DI for application services
             services.AddScoped<INewsService, NewsService>();
             services.AddScoped<INewsRepository, NewsRepository>();
@@ -47,6 +49,9 @@ namespace RSSFeed
             {
                 endpoints.MapControllers();
             });
+
+            app.UseSwagger();
+            app.UseSwaggerUI();
         }
     }
 }

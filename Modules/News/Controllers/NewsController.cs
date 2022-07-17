@@ -1,5 +1,4 @@
 using Microsoft.AspNetCore.Mvc;
-using RSSFeed.Modules.News.Controllers;
 using RSSFeed.Modules.News.Services;
 
 namespace RSSFeed.Modules.News.Controllers

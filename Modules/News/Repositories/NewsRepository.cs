@@ -26,44 +26,44 @@ namespace RSSFeed.Modules.News.Repositories
 
             if (rssFeedResponse == null)
             {
-                throw new System.Exception("Empty rss feed");
+                throw new Exception("Empty rss feed");
             }
 
             Feed feed = new()
             {
-                title = rssFeedResponse.Title?.Text,
-                desc = rssFeedResponse.Description?.Text
+                Title = rssFeedResponse.Title?.Text,
+                Desc = rssFeedResponse.Description?.Text
             };
 
             if (rssFeedResponse.ImageUrl != null)
             {
-                feed.img = new Image()
+                feed.Img = new Image()
                 {
-                    title = rssFeedResponse.Title?.Text,
-                    url = rssFeedResponse.ImageUrl?.ToString()
+                    Title = rssFeedResponse.Title?.Text,
+                    Url = rssFeedResponse.ImageUrl?.ToString()
                 };
             }
 
             if (rssFeedResponse.Items != null && rssFeedResponse.Items.Any())
             {
-                feed.entries = new List<Entry>();
+                feed.Entries = new List<Entry>();
 
                 foreach (SyndicationItem item in rssFeedResponse.Items)
                 {
                     Entry entry = new()
                     {
-                        title = item.Title?.Text,
-                        link = item.Links?.Select(l => l.Uri.AbsoluteUri).First(),
-                        pubDate = item.PublishDate.AddHours(2).ToString("dd-MM-yyyy HH:mm:ss"),
-                        authors = item.Authors.Where(a => a.Name != null).Select(a => a.Name).ToList()
+                        Title = item.Title?.Text,
+                        Link = item.Links?.Select(l => l.Uri.AbsoluteUri).First(),
+                        PubDate = item.PublishDate.AddHours(2).ToString("dd-MM-yyyy HH:mm:ss"),
+                        Authors = item.Authors.Where(a => a.Name != null).Select(a => a.Name).ToList()
                     };
 
                     if (item.PublishDate.AddHours(2) >= DateTime.Now.AddDays(-1))
                     {
-                        feed.authorsToday += item.Authors.Where(a => a.Name != null).ToList().Count();
+                        feed.AuthorsToday += item.Authors.Where(a => a.Name != null).ToList().Count();
                     }
 
-                    feed.entries.Add(entry);
+                    feed.Entries.Add(entry);
                 }
             }
 

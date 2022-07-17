@@ -4,24 +4,24 @@ namespace RSSFeed.Modules.News.Models
 {
     public class Entry
     {
-        public string title { get; set; }
-        public string link { get; set; }
-        public string pubDate { get; set; }
-        public List<string> authors { get; set; }
+        public string Title { get; set; }
+        public string Link { get; set; }
+        public string PubDate { get; set; }
+        public List<string> Authors { get; set; }
     }
 
     public class Image
     {
-        public string title { get; set; }
-        public string url { get; set; }
+        public string Title { get; set; }
+        public string Url { get; set; }
     }
 
     public class Feed
     {
-        public string title { get; set; }
-        public int authorsToday { get; set; } = 0;
-        public string desc { get; set; }
-        public Image img { get; set; }
-        public List<Entry> entries { get; set; }
+        public string Title { get; set; }
+        public int AuthorsToday { get; set; } = 0;
+        public string Desc { get; set; }
+        public Image Img { get; set; }
+        public List<Entry> Entries { get; set; }
     }
 }
