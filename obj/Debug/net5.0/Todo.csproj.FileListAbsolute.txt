@@ -1,0 +1,100 @@
+C:\Code\Todo\obj\Debug\net5.0\Todo.csprojAssemblyReference.cache
+C:\Code\Todo\obj\Debug\net5.0\Todo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Todo\obj\Debug\net5.0\Todo.AssemblyInfoInputs.cache
+C:\Code\Todo\obj\Debug\net5.0\Todo.AssemblyInfo.cs
+C:\Code\Todo\obj\Debug\net5.0\Todo.csproj.CoreCompileInputs.cache
+C:\Code\Todo\obj\Debug\net5.0\Todo.MvcApplicationPartsAssemblyInfo.cs
+C:\Code\Todo\obj\Debug\net5.0\Todo.MvcApplicationPartsAssemblyInfo.cache
+C:\Code\Todo\bin\Debug\net5.0\appsettings.Development.json
+C:\Code\Todo\bin\Debug\net5.0\appsettings.json
+C:\Code\Todo\bin\Debug\net5.0\Todo.exe
+C:\Code\Todo\bin\Debug\net5.0\Todo.deps.json
+C:\Code\Todo\bin\Debug\net5.0\Todo.runtimeconfig.json
+C:\Code\Todo\bin\Debug\net5.0\Todo.runtimeconfig.dev.json
+C:\Code\Todo\bin\Debug\net5.0\Todo.dll
+C:\Code\Todo\bin\Debug\net5.0\ref\Todo.dll
+C:\Code\Todo\bin\Debug\net5.0\Todo.pdb
+C:\Code\Todo\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Code\Todo\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Code\Todo\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Code\Todo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Code\Todo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Code\Todo\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Code\Todo\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Code\Todo\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Code\Todo\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Code\Todo\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Code\Todo\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Code\Todo\obj\Debug\net5.0\staticwebassets\Todo.StaticWebAssets.Manifest.cache
+C:\Code\Todo\obj\Debug\net5.0\staticwebassets\Todo.StaticWebAssets.xml
+C:\Code\Todo\obj\Debug\net5.0\scopedcss\bundle\Todo.styles.css
+C:\Code\Todo\obj\Debug\net5.0\Todo.RazorTargetAssemblyInfo.cache
+C:\Code\Todo\obj\Debug\net5.0\Todo.csproj.CopyComplete
+C:\Code\Todo\obj\Debug\net5.0\Todo.dll
+C:\Code\Todo\obj\Debug\net5.0\ref\Todo.dll
+C:\Code\Todo\obj\Debug\net5.0\Todo.pdb
+C:\Code\Todo\obj\Debug\net5.0\Todo.genruntimeconfig.cache
+C:\Code\Todo\bin\Debug\net5.0\Dapper.dll
+C:\Code\Todo\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Code\Todo\bin\Debug\net5.0\Humanizer.dll
+C:\Code\Todo\bin\Debug\net5.0\MySql.Data.dll
+C:\Code\Todo\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Code\Todo\bin\Debug\net5.0\Npgsql.dll
+C:\Code\Todo\bin\Debug\net5.0\SqlKata.dll
+C:\Code\Todo\bin\Debug\net5.0\SqlKata.Execution.dll
+C:\Code\Todo\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Code\Todo\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Code\Todo\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Code\Todo\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Code\Todo\bin\Debug\net5.0\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Code\Todo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Code\ItGest\Todo API\bin\Debug\net5.0\appsettings.Development.json
+C:\Code\ItGest\Todo API\bin\Debug\net5.0\appsettings.json
+C:\Code\ItGest\Todo API\bin\Debug\net5.0\Todo.exe
+C:\Code\ItGest\Todo API\bin\Debug\net5.0\Todo.deps.json
+C:\Code\ItGest\Todo API\bin\Debug\net5.0\Todo.runtimeconfig.json
+C:\Code\ItGest\Todo API\bin\Debug\net5.0\Todo.runtimeconfig.dev.json
+C:\Code\ItGest\Todo API\bin\Debug\net5.0\Todo.dll
+C:\Code\ItGest\Todo API\bin\Debug\net5.0\ref\Todo.dll
+C:\Code\ItGest\Todo API\bin\Debug\net5.0\Todo.pdb
+C:\Code\ItGest\Todo API\bin\Debug\net5.0\Dapper.dll
+C:\Code\ItGest\Todo API\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Code\ItGest\Todo API\bin\Debug\net5.0\Humanizer.dll
+C:\Code\ItGest\Todo API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Code\ItGest\Todo API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Code\ItGest\Todo API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Code\ItGest\Todo API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Code\ItGest\Todo API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Code\ItGest\Todo API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Code\ItGest\Todo API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Code\ItGest\Todo API\bin\Debug\net5.0\MySql.Data.dll
+C:\Code\ItGest\Todo API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Code\ItGest\Todo API\bin\Debug\net5.0\Npgsql.dll
+C:\Code\ItGest\Todo API\bin\Debug\net5.0\SqlKata.dll
+C:\Code\ItGest\Todo API\bin\Debug\net5.0\SqlKata.Execution.dll
+C:\Code\ItGest\Todo API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Code\ItGest\Todo API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Code\ItGest\Todo API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Code\ItGest\Todo API\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Code\ItGest\Todo API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Code\ItGest\Todo API\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Code\ItGest\Todo API\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Code\ItGest\Todo API\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Code\ItGest\Todo API\bin\Debug\net5.0\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Code\ItGest\Todo API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Code\ItGest\Todo API\obj\Debug\net5.0\Todo.csprojAssemblyReference.cache
+C:\Code\ItGest\Todo API\obj\Debug\net5.0\Todo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\ItGest\Todo API\obj\Debug\net5.0\Todo.AssemblyInfoInputs.cache
+C:\Code\ItGest\Todo API\obj\Debug\net5.0\Todo.AssemblyInfo.cs
+C:\Code\ItGest\Todo API\obj\Debug\net5.0\Todo.csproj.CoreCompileInputs.cache
+C:\Code\ItGest\Todo API\obj\Debug\net5.0\Todo.MvcApplicationPartsAssemblyInfo.cs
+C:\Code\ItGest\Todo API\obj\Debug\net5.0\Todo.MvcApplicationPartsAssemblyInfo.cache
+C:\Code\ItGest\Todo API\obj\Debug\net5.0\staticwebassets\Todo.StaticWebAssets.Manifest.cache
+C:\Code\ItGest\Todo API\obj\Debug\net5.0\staticwebassets\Todo.StaticWebAssets.xml
+C:\Code\ItGest\Todo API\obj\Debug\net5.0\scopedcss\bundle\Todo.styles.css
+C:\Code\ItGest\Todo API\obj\Debug\net5.0\Todo.RazorTargetAssemblyInfo.cache
+C:\Code\ItGest\Todo API\obj\Debug\net5.0\Todo.csproj.CopyComplete
+C:\Code\ItGest\Todo API\obj\Debug\net5.0\Todo.dll
+C:\Code\ItGest\Todo API\obj\Debug\net5.0\ref\Todo.dll
+C:\Code\ItGest\Todo API\obj\Debug\net5.0\Todo.pdb
+C:\Code\ItGest\Todo API\obj\Debug\net5.0\Todo.genruntimeconfig.cache

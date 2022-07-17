@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "69f61c4c-80a3-451c-a42b-4bca3e899132": {
+      "ProjectGuid": "69f61c4c-80a3-451c-a42b-4bca3e899132",
+      "DisplayName": "IVMChatbot",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\nelson.matos\Desktop\IVM</_PublishTargetUrl>
+    <History>True|2022-07-16T10:13:50.7322617Z;True|2022-07-16T11:11:15.7244472+01:00;True|2022-07-04T22:12:17.3945905+01:00;True|2022-06-20T22:16:51.8054706+01:00;True|2022-04-15T17:26:51.2510721+01:00;</History>
+  </PropertyGroup>
+</Project>
